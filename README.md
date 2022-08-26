@@ -17,7 +17,7 @@
 
 <br />
 
-hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
+Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
 <hr>
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/code.gif?raw=true" width="500" height="320" />
