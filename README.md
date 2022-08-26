@@ -19,6 +19,14 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<hr/>
+<h2 align="center">
+📫 How to reach me
+</h32>
 
-<h2></h2>
+<p align="center">
+	<a href="https://github.com/mehedi-66"><img src="https://img.shields.io/github/followers/mehedi-66.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/mehedi2020hasan/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.facebook.com/mehedi2020hasan/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
+</p>
 
