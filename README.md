@@ -6,7 +6,7 @@
 
 
 
-<hr />
+<br />
 
 Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
 <hr>
