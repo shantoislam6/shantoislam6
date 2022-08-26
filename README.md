@@ -39,4 +39,4 @@ hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <h2></h2>
-<h1>![](https://page-views.glitch.me/badge?page_id=shantoislam6.visitor-badge)</h1>
+![](https://page-views.glitch.me/badge?page_id=shantoislam6.visitor-badge)
