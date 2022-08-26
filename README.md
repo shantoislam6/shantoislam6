@@ -1,4 +1,4 @@
-<h2 color="blue">Hey There</h2> 
+<h2 >Hey There</h2> 
 <a href="https://www.instagram.com//">
   <img align="left" alt="Shanto's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
