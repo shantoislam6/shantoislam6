@@ -23,8 +23,8 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 
 
 
-<a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/fb.svg" alt="facebook"></a>&nbsp&nbsp
-<a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/discord.svg" alt="discord"></a>&nbsp&nbsp 
+<a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/fb.svg" alt="facebook"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/discord.svg" alt="discord"></a>&nbsp;&nbsp;
 <a href="https://codepen.io/shantoislam6/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/codepen.svg" alt="codepen"></a>
 
 
