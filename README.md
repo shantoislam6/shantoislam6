@@ -4,14 +4,6 @@
 
 Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
 <hr>
-<a href="https://codepen.io/shantoislam6/">
-  <img align="left" alt="Shanto's codepan" width="22px" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/codepen.svg" />
-</a>
-
-<h1></h1>
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/code.gif?raw=true" width="500" height="320" />
-<hr>
-<h2></h2>
 
 - 💼 any freelance work? do reach, [email](mailto:ishanto412@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
