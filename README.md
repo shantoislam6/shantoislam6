@@ -21,7 +21,12 @@ hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/code.gif?raw=true" width="500" height="320" />
 <hr>
+<h2></h2>
 
+- 💼 any freelance work? do reach, [email](mailto:ishanto412@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+<h2></h2>
 <h2>Specialities On:  </h2>  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
