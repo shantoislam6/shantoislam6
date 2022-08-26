@@ -25,8 +25,7 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 </h32>
 
 <p align="center">
-	<a href="https://github.com/mehedi-66"><img src="https://img.shields.io/github/followers/shantoislam6.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/mehedi2020hasan/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/shantoislam6"><img src="https://img.shields.io/github/followers/shantoislam6.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.facebook.com/mehedi2020hasan/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
 </p>
 
