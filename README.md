@@ -24,7 +24,7 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 📫 How to reach me
 </h2>
 
-<p align="center">dfg
+<p align="center">
 <a href="https://www.facebook.com/profile.php?id=100079545008045/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
 	
 </p>
