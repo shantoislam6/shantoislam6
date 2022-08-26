@@ -1,16 +1,11 @@
 <h2 >Hey There</h2> 
 
-<a href="https://codepen.io/shantoislam6/">
-  <img align="left" alt="Shanto's codepan" width="22px" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/codepen.svg" />
-</a>
-
-
-
 <br />
 
 Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
 <hr>
-
+<br><br>
+<h1></h1>
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/code.gif?raw=true" width="500" height="320" />
 <hr>
 <h2></h2>
