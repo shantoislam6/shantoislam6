@@ -1,17 +1,5 @@
 <h2 >Hey There</h2> 
 
-<a href="https://www.instagram.com//">
-  <img align="left" alt="Shanto's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/">
-  <img align="left" alt="Shanto's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/">
-  <img align="left" alt="Shanto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <a href="https://codepen.io/shantoislam6/">
   <img align="left" alt="Shanto's codepan" width="22px" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/codepen.svg" />
 </a>
