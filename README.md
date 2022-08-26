@@ -15,37 +15,17 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <code><img height="30" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/css.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/sass.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/javascript.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/nodejs.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/typescript.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/react.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/vue.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/redux.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/firebase.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/nodejs.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/webpack.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/nextjs.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/gatsby-seeklogo.svg"></code>
+
+
 
 <hr/>
 
