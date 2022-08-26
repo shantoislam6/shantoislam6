@@ -22,7 +22,7 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <hr/>
 <h2 align="center">
 📫 How to reach me
-</h32>
+</h2>
 
 <p align="center">
 	<a href="https://github.com/shantoislam6"><img src="https://img.shields.io/github/followers/shantoislam6.svg?label=GitHub&style=social" alt="GitHub"></a>
