@@ -11,7 +11,6 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <h2></h2>
 <h3><em>Technologies :  <em/></h3>  
 
-<code><img height="20" src=""></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/html.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/css.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/sass.svg"></code>
