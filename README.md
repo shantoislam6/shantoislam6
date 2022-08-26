@@ -20,13 +20,11 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <hr/>
-<h2 align="center">
-📫 How to reach me
-</h2>
 
-<p align="center">
+
+
 <a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/fb.svg" alt="facebook"></a>
 <a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/discord.svg" alt="discord"></a>
 <a href="https://codepen.io/shantoislam6/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/codepen.svg" alt="codepen"></a>
-</p>
+
 
