@@ -12,6 +12,9 @@
 <a href="https://www.linkedin.com/in//">
   <img align="left" alt="Shanto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.linkedin.com/in//">
+  <img align="left" alt="Shanto's codepan" width="22px" src="https://raw.githubusercontent.com/shantoislam6/rawfile/main/codepan.png" />
+</a>
 
 ![](https://page-views.glitch.me/badge?page_id=shantoislam6.visitor-badge)
 
