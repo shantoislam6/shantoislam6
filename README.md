@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Shanto Islam](), a passionate self-taught full stack web developer. 
+hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
 
 
 
