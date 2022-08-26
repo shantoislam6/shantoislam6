@@ -17,14 +17,10 @@
 <br />
 
 hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
-
-
+<hr>
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:ishanto412@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-
+<hr>
 
 **Echosystem adn technology*  
 
