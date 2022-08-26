@@ -9,11 +9,11 @@
 <a href="https://twitter.com/">
   <img align="left" alt="Shanto's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in//">
+<a href="https://www.linkedin.com/in/">
   <img align="left" alt="Shanto's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in//">
-  <img align="left" alt="Shanto's codepan" width="22px" src="https://raw.githubusercontent.com/shantoislam6/rawfile/main/codepen.svg?token=GHSAT0AAAAAABXJQ3RLLSK26FA4USPQLXSQYYIVUIA" />
+<a href="https://codepen.io/shantoislam6/">
+  <img align="left" alt="Shanto's codepan" width="22px" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/codepen.svg" />
 </a>
 
 ![](https://page-views.glitch.me/badge?page_id=shantoislam6.visitor-badge)
