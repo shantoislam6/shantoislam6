@@ -25,7 +25,8 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 </h2>
 
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/fb.svg" alt="LinkedIn"></a>
-	
+<a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/fb.svg" alt="facebook"></a>
+<a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/discord.svg" alt="discord"></a>
+
 </p>
 
