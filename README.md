@@ -22,10 +22,6 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/firebase.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/nodejs.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/webpack.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/nextjs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/raw_static/main/gatsby-seeklogo.svg"></code>
-
-
 
 <hr/>
 
