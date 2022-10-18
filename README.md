@@ -11,7 +11,7 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <h2></h2>
 <h3>Technologies that I use for building project: </h3>  
 
-<code><img height="30" src="./raw_static/main/html.svg"></code>
+<code><img height="30" src="raw_static/main/html.svg"></code>
 <code><img height="30" src="./raw_static/main/css.svg"></code>
 <code><img height="25" src="./raw_static/main/sass.svg"></code>
 <code><img height="25" src="./raw_static/main/javascript.svg"></code>
