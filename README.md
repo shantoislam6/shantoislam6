@@ -9,7 +9,6 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 - 💬 ask me about anything, i am happy to help;
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/code.gif" width="500" height="320" />
 <h2></h2>
-<h3>Technologies that I use for building project: </h3>  
 
 <code><img height="30" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/html.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/css.svg"></code>
@@ -31,7 +30,6 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 
 
 <hr/>
-<h3>System Languages :  </h3>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/c.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/rust.svg"></code>
 
