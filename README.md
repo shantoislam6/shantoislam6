@@ -33,7 +33,6 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 <hr/>
 <h3>System Languages :  </h3>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/c.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/cpp.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/rust.svg"></code>
 
 
