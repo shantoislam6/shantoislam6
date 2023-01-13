@@ -5,7 +5,7 @@
 Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
 <hr>
 
-- 💼 any freelance work? do reach, [email](mailto:ishanto412@gmail.com) :)
+- 💼  [email](mailto:ishanto412@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/code.gif" width="500" height="320" />
 <h2></h2>
