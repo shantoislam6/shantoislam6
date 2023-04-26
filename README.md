@@ -19,7 +19,8 @@ Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer.
 
 <hr/>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/mysql.svg"></code>
-<span style="background:red"><img bgcolor="red" height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/mongodb.svg"></span>
+<code style="background:red"><img bgcolor="red" height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/mongodb.svg"></code>
+<code style="background:red"><img bgcolor="red" height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/redis.svg"></code>
 
 <hr/>
 <code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/c.svg"></code>
