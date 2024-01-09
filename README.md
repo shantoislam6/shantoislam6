@@ -29,12 +29,13 @@
     <img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components Badge">
   </div>
+    <b />
   <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
     <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" alt="WSL Badge">
   </div>
-  <b r/>
+
 </div>
 </br>
 <p align="center">
