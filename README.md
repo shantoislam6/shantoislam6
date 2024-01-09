@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/next%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express%20-%23222222.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine.js Badge">
+<img src="https://img.shields.io/badge/Solid.js-28282A?style=for-the-badge&logo=solid.js&logoColor=white" alt="Solid.js Badge">
 
 </div>
 <br/>
