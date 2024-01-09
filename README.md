@@ -1,36 +1,48 @@
-<h2 >Hey There</h2> 
-
-<br />
-
-Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
-<hr>
-
-- 💼  [email](mailto:ishanto412@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/code.gif" width="500" height="320" />
-
-<code><img height="30" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/html.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/css.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/javascript.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/typescript.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/nodejs.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/php.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/python.svg"></code>
-
-<hr/>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/mysql.svg"></code>
-<code style="background:red"><img bgcolor="red" height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/mongodb.svg"></code>
-<code style="background:red"><img bgcolor="red" height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/redis.svg"></code>
-
-<hr/>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/c.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/rust.svg"></code>
-
-
-<hr/>
-<a href="https://www.facebook.com/profile.php?id=100079545008045/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/fb.svg" alt="facebook"></a>&nbsp;&nbsp;
-<a href="https://discord.gg/MGJshmpj" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/discord.svg" alt="discord"></a>&nbsp;&nbsp;
-<a href="https://codepen.io/shantoislam6/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/codepen.svg" alt="codepen"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/shantoislam6/" ><img width="25" src="https://raw.githubusercontent.com/shantoislam6/shantoislam6/main/raw_static-main/github.svg" alt="github"></a>
-
+<div align="center">
+	<!-- Intro -->
+	<samp>
+		I'm a software engineer
+		<br>
+		Working on web technology
+		<br>
+	</samp>
+	<br/>
+	<samp>
+		My Teck Stacks:
+		<br>
+		<br>
+	</samp>
+	<div>
+		<img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+		<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+		<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+		<img src="https://img.shields.io/badge/shopify%20liquid%20-%230B0B80.svg?&style=for-the-badge&logo=shopify&logoColor=white"/>
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+		<img src="https://img.shields.io/badge/next%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+		<img src="https://img.shields.io/badge/remix%20-%23000000.svg?&style=for-the-badge&logo=remix&logoColor=white"/>
+		<img src="https://img.shields.io/badge/express%20-%23222222.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+		<img src="https://img.shields.io/badge/nest%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"/>
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/mysql%20-%2302758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+		<img src="https://img.shields.io/badge/postgresql%20-%23306792.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+		<img src="https://img.shields.io/badge/mongodb%20-%2302684A.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+	</div>
+	<br/>
+	<div>
+		<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+		<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+		<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+		<img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+	</div>
+</div>
+</br>
+<p align="center">
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=maruffahmed&show_icons=true&include_all_commits=true&theme=darcula&hide_border=true&bg_color=00000000">
+	<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=maruffahmed&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">
+	<img src ="https://github-readme-streak-stats.herokuapp.com?user=maruffahmed&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
