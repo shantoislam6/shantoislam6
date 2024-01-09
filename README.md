@@ -1,5 +1,11 @@
 <div align="center">
   <div>
+     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
+  </div>
+
+  <br/>
+  <div>
     <img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -9,12 +15,12 @@
     
 <br/>
   <div>
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/next%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express%20-%23222222.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine.js Badge">
-  <img src="https://img.shields.io/badge/Solid.js-28282A?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js Badge">
-  
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/next%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express%20-%23222222.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine.js Badge">
+    <img src="https://img.shields.io/badge/Solid.js-28282A?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js Badge">
+    <img src="https://img.shields.io/badge/Astro.js-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro.js Badge">
   </div>
 <br/>
   <div>
@@ -34,6 +40,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
     <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" alt="WSL Badge">
+    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge">
   </div>
 
 </div>
