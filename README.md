@@ -3,6 +3,8 @@
 <img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  
 </div>
 <br/>
 <div>
