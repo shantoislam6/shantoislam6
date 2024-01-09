@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/express%20-%23222222.svg?&style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine.js Badge">
     <img src="https://img.shields.io/badge/Solid.js-28282A?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js Badge">
-    <img src="https://img.shields.io/badge/Astro.js-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro.js Badge">
+    <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge">
   </div>
 <br/>
   <div>
