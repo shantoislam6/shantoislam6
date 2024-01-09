@@ -5,17 +5,15 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
-
-
-  
 </div>
+  
 <br/>
 <div>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/next%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express%20-%23222222.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinelinux&logoColor=white" alt="Alpine.js Badge">
-<img src="https://img.shields.io/badge/Solid.js-28282A?style=for-the-badge&logo=solid.js&logoColor=white" alt="Solid.js Badge">
+<img src="https://img.shields.io/badge/Solid.js-28282A?style=for-the-badge&logo=solid&logoColor=white" alt="Solid.js Badge">
 
 </div>
 <br/>
