@@ -1,7 +1,7 @@
 <div align="center">
-  <div draggable="false">
-     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
-     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
+  <div>
+     <img  draggable="false" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+     <img  draggable="false" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
   </div>
 
   <br/>
@@ -41,18 +41,18 @@
     <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components Badge">
   </div>
     <br />
-  <div draggable="false">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-    <img src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" alt="WSL Badge">
-    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge">
+  <div >
+    <img draggable="false" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+    <img draggable="false" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+    <img draggable="false" src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" alt="WSL Badge">
+    <img draggable="false" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge">
   </div>
 
 </div>
 </br>
 <p align="center" draggable="false">
-<img src="https://github-readme-stats.vercel.app/api?username=shantoislam6&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoislam6&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shantoislam6&theme=transparent&border_radius=3.4&hide_border=true&cache_seconds=21600">
+<img draggable="false" src="https://github-readme-stats.vercel.app/api?username=shantoislam6&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600">
+<img draggable="false" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoislam6&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600">
+<img draggable="false" src="https://github-readme-streak-stats.herokuapp.com?user=shantoislam6&theme=transparent&border_radius=3.4&hide_border=true&cache_seconds=21600">
 </p>
 
