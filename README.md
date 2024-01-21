@@ -1,11 +1,11 @@
 <div align="center">
   <div>
-     <img  draggable="false" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
-     <img  draggable="false" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
+     <img   src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
+     <img   src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Badge">
   </div>
 
   <br/>
-  <div draggable="false">
+  <div >
     <img src="https://img.shields.io/badge/javascript%20-%23F0DB4F.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -13,7 +13,7 @@
   </div>
     
 <br/>
-  <div draggable="false">
+  <div >
      <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img src="https://img.shields.io/badge/next%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -23,18 +23,18 @@
     <img src="https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white" alt="Astro Badge">
   </div>
 <br/>
-  <div draggable="false">
+  <div >
     <img src="https://img.shields.io/badge/mysql%20-%2302758F.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/postgresql%20-%23306792.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/mongodb%20-%2302684A.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   </div>
   <br/>
-  <div draggable="false">
+  <div >
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge">
     <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Badge">
   </div>
   <br/>
-  <div draggable="false">
+  <div >
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/tailwindcss%20-%2338BDF8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -42,17 +42,17 @@
   </div>
     <br />
   <div >
-    <img draggable="false" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-    <img draggable="false" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-    <img draggable="false" src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" alt="WSL Badge">
-    <img draggable="false" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge">
+    <img  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+    <img  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+    <img  src="https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white" alt="WSL Badge">
+    <img  src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim Badge">
   </div>
 
 </div>
 </br>
-<p align="center" draggable="false">
-<img draggable="false" src="https://github-readme-stats.vercel.app/api?username=shantoislam6&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600">
-<img draggable="false" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoislam6&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600">
-<img draggable="false" src="https://github-readme-streak-stats.herokuapp.com?user=shantoislam6&theme=transparent&border_radius=3.4&hide_border=true&cache_seconds=21600">
+<p align="center" >
+<img  src="https://github-readme-stats.vercel.app/api?username=shantoislam6&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantoislam6&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=shantoislam6&theme=transparent&border_radius=3.4&hide_border=true&cache_seconds=21600">
 </p>
 
